@@ -1,5 +1,6 @@
 # Notes
 Pada beberapa materi saya menaruhnya tidak sesuai dengan urutan atau judul materi karena repository yang dibuat ketika masa pembelajaran dan berbagai sumber pembelajaran yang tersebar di internet.
+
 ---
 
 # Resources
