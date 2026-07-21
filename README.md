@@ -35,7 +35,7 @@ Pada beberapa materi saya menaruhnya tidak sesuai dengan urutan atau judul mater
   - General Sibling: https://css-tricks.com/almanac/selectors/a/adjacent-sibling/
  
 - Attribute Selector:
-  - [attribute]: https://css-tricks.com/almanac/selectors/a/attribute/
+  - `[attribute]`: https://css-tricks.com/almanac/selectors/a/attribute/
 
 - Color:
   - Referensi: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/color
