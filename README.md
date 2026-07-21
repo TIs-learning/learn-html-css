@@ -64,6 +64,8 @@ Pada beberapa materi saya menaruhnya tidak sesuai dengan urutan atau judul mater
   - Font size: https://developer.mozilla.org/en-US/docs/Web/CSS/font-size
  
   - Google font: https://fonts.google.com/
-- Background: 
+    
+- Background:
+  - Background color: https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
  
      
